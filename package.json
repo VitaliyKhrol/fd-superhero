@@ -1,0 +1,20 @@
+{
+  "name": "fd-superhero",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitaliyKhrol/fd-superhero.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VitaliyKhrol/fd-superhero/issues"
+  },
+  "homepage": "https://github.com/VitaliyKhrol/fd-superhero#readme"
+}
