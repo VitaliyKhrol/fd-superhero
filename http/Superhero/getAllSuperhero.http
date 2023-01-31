@@ -1,0 +1,1 @@
+GET http://localhost:5002/api/superheros/?page=1&limit=10 HTTP/1.1
